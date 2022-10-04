@@ -30,5 +30,4 @@ setup(
         "Intended Audience :: Science/Research",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=find_namespace_packages(where='lambo')
 )
